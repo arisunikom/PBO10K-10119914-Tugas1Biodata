@@ -7,7 +7,9 @@ package Tugas1Biodata;
 
 /**
  *
- * @author dropsuite
+ * @author Aris Prabowo
+ * IF10K
+ * 10119914
  */
 public class Main {
 
