@@ -7,9 +7,7 @@ package Tugas1Biodata;
 
 /**
  *
- * @author Aris Prabowo
- * IF 10K
- * 10119914
+ * @author dropsuite
  */
 public class Main {
 
@@ -20,11 +18,11 @@ public class Main {
         // TODO code application logic here
         System.out.println("BIODATA ROCKSTAR" + "\n" + "---------------------");
         System.out.println("NAMA\t\t: Aris Prabowo");
-        System.out.println("Alamat\t\t: Bandung Soekarno Hatta");
+        System.out.println("Alamat\t\t: Bandung, Soekarno Hatta");
         System.out.println("TEMPAT LAHIR\t: Cirebon");
         System.out.println("TANGGAL LAHIR\t: 8 Maret 1997");
         System.out.println("---------------------");
-        System.out.println("HOBI\t\t: Nonton Teori OnePiece");
+        System.out.println("HOBI\t\t: Nonton Teori One Piece");
         System.out.println("MAKES\t\t: Kentang Goreng");
         System.out.println("MIKES\t\t: Cola");
     }
